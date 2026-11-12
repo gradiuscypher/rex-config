@@ -1,0 +1,14 @@
+# Local environment and credentials.
+.env
+.env.*
+*.pem
+*.key
+
+# Configuration backups and editor/OS artifacts.
+*.bak
+*.bak.*
+*.backup.*
+*~
+*.swp
+*.swo
+.DS_Store
